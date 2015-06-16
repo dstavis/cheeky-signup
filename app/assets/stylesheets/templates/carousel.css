@@ -55,3 +55,7 @@
   }
 
 }
+
+.carousel-inner > .item > img{
+   height:500px;
+ }
